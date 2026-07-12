@@ -1,6 +1,8 @@
 # MHDR Simple Chain for Unreal Engine
 
-Lightweight procedural chain generator for Unreal Engine.
+![Demo](Docs/MHDR_SimpleChain.gif)
+
+A lightweight procedural Blueprint for creating configurable chains in Unreal Engine.
 
 ## Features
 
